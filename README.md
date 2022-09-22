@@ -1,4 +1,4 @@
-# dot-net-dependency-injection
+# Dependency injection in dotnet
 Code to show how dependency injection works in .NET using Minimal API and .NET 6.
 
 ## Dependency injection configuration ##
